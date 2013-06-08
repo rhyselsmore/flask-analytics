@@ -1,4 +1,4 @@
-flask-not-prism
+Flask Analytics
 ===============
 
-Definitely not PRISM
+Definitely not sending your data to PRISM. At all.
