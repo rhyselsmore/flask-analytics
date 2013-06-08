@@ -1,4 +1,4 @@
-class NotPrism():
+class Analytics():
   
   def __init__(self, app=None):
     
